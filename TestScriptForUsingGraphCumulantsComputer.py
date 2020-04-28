@@ -1,6 +1,6 @@
 import numpy as np
 from igraph import *
-from GraphCumulantsComputer import GraphCumulantsComputer
+from GraphCumulantsComputerFiles.GraphCumulantsComputer import GraphCumulantsComputer
 
 
 # Initialize the subgraph computer object
